@@ -7,4 +7,4 @@ My journey of learning grep
 > the basics.
 
 > [!IMPORTANT]
-> `src/how-grep-works.md`
+> Read `src/how-grep-works.md`
